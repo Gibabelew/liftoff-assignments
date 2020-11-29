@@ -21,6 +21,6 @@ Running Scoreboard: Users can view the real-time scores for each game being play
 ### Technologies
 This project will use a Angular/JavaScript Frontend, Java/Spring Boot Backend, and SQL.
 ### What I'll Have to Learn
-I personally will learn more in detail how to work in the Group and the technologies
+I personally will learn more in detail how to work in the Group and the technologies (angular, spring boot, java)
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/4CciJPnR/recleague-organizer
