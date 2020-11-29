@@ -24,3 +24,4 @@ This project will use a Angular/JavaScript Frontend, Java/Spring Boot Backend, a
 I personally will learn more in detail how to work in the Group and the technologies (angular, spring boot, java)
 ### Project Tracker
 https://trello.com/b/4CciJPnR/recleague-organizer
+https://docs.google.com/document/d/17-L9Q1ns3s46IL5hiwDqmJHjG2JQENkqZaOVY9V6GUQ/edit
