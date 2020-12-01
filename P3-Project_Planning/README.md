@@ -8,7 +8,7 @@ The project our groups has chosen is a website that will allow athelets to sched
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-![file:///C:/Users/adgyk/OneDrive/Desktop/Amele.s%20folder/Doc1.htm]
+C:\Users\adgyk\OneDrive\Desktop\Amele.s folder\Doc1.mht
 
 ### Project Tracker
 
