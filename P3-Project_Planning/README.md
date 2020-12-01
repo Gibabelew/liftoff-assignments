@@ -15,5 +15,6 @@ Include at least 3 wireframes here, adding images or files to your repository as
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
 ### Project Repo Link
-
+https://github.com/LaunchCodeLiftoffProjects/recLeagueOrganizer
 Include a link to your project on GitHub.
+https://github.com/Gibabelew/liftoff-assignments/blob/master/P3-Project_Planning/README.md
